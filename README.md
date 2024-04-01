@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Safir Ah,ad</h1>
 <h3 align="center">A passionate data Scientist from Pakistan</h3>
 
-<p align="left"> username=safirahmad" alt="safirahmad" /></a> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safirahmad" alt="safirahmad" /></a> </p>
 - 💬 Ask me about **Data Science , Machine Learning and Data Analysis**
 
 <h3 align="left">Connect with me:</h3>
