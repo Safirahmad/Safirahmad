@@ -1,3 +1,4 @@
+![logo](https://github.com/Safirahmad/Safirahmad/blob/main/Data%20SCIENTIST.png)
 <h1 align="center">Hi 👋, I'm Safir Ah,ad</h1>
 <h3 align="center">A passionate data Scientist from Pakistan</h3>
 <img align="right" alt="datascience" width="200" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
