@@ -1,5 +1,5 @@
 ![logo](https://github.com/Safirahmad/Safirahmad/blob/main/Data%20SCIENTIST.png)
-<h1 align="center">Hi 👋, I'm Safir Ah,ad</h1>
+<h1 align="center">Hi 👋, I'm Safir Ahmad</h1>
 <h3 align="center">A passionate data Scientist from Pakistan</h3>
 <img align="right" alt="datascience" width="200" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
 
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/safirahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safirahmad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/safir-ahmad-3a2bb1200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safirahmad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
