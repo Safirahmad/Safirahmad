@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Safir Ah,ad</h1>
 <h3 align="center">A passionate data Scientist from Pakistan</h3>
-<img align="right" alt="datascience" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
+<img align="right" alt="datascience" width="200" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
 
-<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/Safirahmad/Safirahmad/)"><img src="https://github-profile-trophy.vercel.app/?username=safirahmad" alt="safirahmad" /></a> </p>
 - 💬 Ask me about **Data Science , Machine Learning and Data Analysis**
 
 <h3 align="left">Connect with me:</h3>
